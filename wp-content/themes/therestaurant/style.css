@@ -79,6 +79,8 @@ blockquote {
 	font-weight: bold;
 	text-transform: uppercase;
 	display: block;
+	position: relative;
+	top: -12px;
 }
 #logo a {
 	color: #fff;
