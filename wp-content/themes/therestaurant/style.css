@@ -1889,4 +1889,5 @@ input[type="text"] {
 /* end ---------------------------------------- misc */
 
 /* CUSTOM */
-.card-item .price {position:absolute; top:0px; right:0px; float:none;}
+.card-item .price 	{position:absolute; top:0px; right:0px; float:none;}
+.description ul li 	{list-style:disc; margin:0 0 0 18px;}
