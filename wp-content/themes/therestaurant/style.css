@@ -1887,3 +1887,6 @@ input[type="text"] {
 	padding: 5px;
 }
 /* end ---------------------------------------- misc */
+
+/* CUSTOM */
+.card-item .price {position:absolute; top:0px; right:0px; float:none;}
