@@ -1889,5 +1889,7 @@ input[type="text"] {
 /* end ---------------------------------------- misc */
 
 /* CUSTOM */
-.card-item .price 	{position:absolute; top:0px; right:0px; float:none;}
-.description ul li 	{list-style:disc; margin:0 0 0 18px;}
+.card-item .price 		{position:absolute; top:0px; right:0px; float:none;}
+.description ul li 		{list-style:disc; margin:0 0 0 18px;}
+.wpcf7-form input		{width:524px; height:20px; margin:10px 0 0;}
+.wpcf7-form textarea	{width:524px; margin:10px 0 0;}
