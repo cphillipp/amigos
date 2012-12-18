@@ -11,7 +11,7 @@
             </div><!-- #footer -->
             <?php } ?>
             <ul id="footer-links">
-                <li><?php _e( 'Copyright &copy;', $theme_name ); ?> <?php echo date('Y'); ?> <?php bloginfo('name'); ?> <!-- CUSTOM - </?php _e( 'Made by', $theme_name ); ?> <a href="http://themeforest.net/user/redfactory/portfolio/?ref=redfactory" target="_BLANK">Red Factory</a> --> </li>
+                <li><?php _e( 'Copyright &copy;', $theme_name ); ?> <?php echo date('Y'); ?> <?php bloginfo('name'); ?>  - Made by <a href="http://www.grovisible.com/" target="_BLANK">http://www.grovisible.com/</a></li>
             </ul>
 		</div><!-- .wrapper -->
 	</div><!-- #footer-container -->
